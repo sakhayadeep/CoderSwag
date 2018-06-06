@@ -14,7 +14,7 @@ object DataService {
             Product("Devslopes Graphic Beanie","₹500","hat1"),
             Product("Devslopes Hat Black","₹500","hat2"),
             Product("Devslopes Hat White","₹500","hat3"),
-            Product("Devslopes Hat Snapback","₹500","hat4"),
+            Product("Devslopes Hat Snapback","₹500","hat4")
     )
     val hoodies= listOf(
             Product("Devslopes Hoodie Gray","₹1300","hoodie1"),
